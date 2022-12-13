@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 
+
 double my_pow(double num, int deg)
 {
     double result = 1;
@@ -34,6 +35,7 @@ double my_pow(double num, int deg)
 
         return result;
     }
+
 
 }
 
